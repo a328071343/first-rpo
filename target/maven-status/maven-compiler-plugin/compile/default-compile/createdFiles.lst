@@ -1,0 +1,4 @@
+com\atguigu\admin\config\MyMvcConfig$MyViewResolver.class
+com\atguigu\admin\config\MyMvcConfig.class
+com\atguigu\admin\controller\indexcontroller.class
+com\atguigu\admin\Boot05WebAdminApplication.class
